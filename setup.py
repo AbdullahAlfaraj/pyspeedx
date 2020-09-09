@@ -8,7 +8,7 @@ setup(
   author = 'Abdullah Alfaraj',                   # Type in your name
   author_email = 'abdullah.a.f2014@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/AbdullahAlfaraj',   # Provide either the link to your github or to your website
-  download_url = 'https://github.com/AbdullahAlfaraj/pyspeedx/archive/v_01.tar.gz',    # I explain this later on
+  download_url = 'https://github.com/AbdullahAlfaraj/pyspeedx/archive/v_01_1_1.tar.gz',    # I explain this later on
   keywords = ['Quick', 'Prototyping', 'Extension'],   # Keywords that define your package best
   install_requires=[            # I get to this in a second
           '',
